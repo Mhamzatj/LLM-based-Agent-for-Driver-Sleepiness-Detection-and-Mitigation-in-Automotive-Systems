@@ -1,11 +1,11 @@
 # LLM-based-Agent-for-Driver-Sleepiness-Detection-and-Mitigation-in-Automotive-Systems
-An AI-driven automotive agent utilizing Large Language Models (LLMs) and multimodal data to detect and mitigate driver sleepiness in real-time.
-Project Overview
 
+**Project Overview
+**
 Driver fatigue is one of the leading causes of road accidents globally, emphasizing the critical need for intelligent systems to detect and mitigate driver sleepiness. This project leverages cutting-edge Large Language Models (LLMs) integrated with multimodal data—including facial expressions, audio signals, driving behavior, and contextual cues—to proactively assess driver alertness levels.
 
-Key Objectives
-
+**Key Objectives
+**
 1. Develop a robust multimodal feature extraction framework.
 
 2. Integrate multimodal embeddings (vision, audio, driving data) using Transformer architectures.
@@ -14,16 +14,16 @@ Key Objectives
 
 4. Evaluate system effectiveness, reliability, and user satisfaction.
 
-How it Works
-
+**How it Works
+**
 Multimodal Data Fusion: Vision Transformers, Wav2Vec audio encoders, and Informer Transformers process visual, audio, and driving behavioral data, respectively.
 
 Alertness Metrics: Real-time driver alertness levels (e.g., alert, drowsy, sleepy) computed through integrated analysis.
 
 Interventions: Tailored actions such as cabin environment adjustments, conversation initiation, or rest-stop recommendations.
 
-Technologies & Frameworks
-
+**Technologies & Frameworks
+**
 Vision: ResNet, ViT (Vision Transformer)
 
 Audio Processing: Wav2Vec 2.0
@@ -34,8 +34,8 @@ Multimodal Fusion: Cross-modal Transformers
 
 Decision-Making: GPT-4, LLaMA 2
 
-Impact & Applications
-
+**Impact & Applications
+**
 1. Improved driver safety through real-time fatigue mitigation.
 
 2. Enhanced automotive systems integrating AI-driven alertness management.
